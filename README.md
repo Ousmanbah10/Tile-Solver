@@ -12,9 +12,10 @@ This is a Streamlit-based app where you can eventually split images into tiles, 
 3. Install the dependencies from `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt
+Run the following on the Terminal 
+ STEP 1: pip install -r requirements.txt
 
 
 TO RUN THE APP
-streamlit run app.py - ON TERMINAL
+STEP 2: streamlit run app.py
 ```
