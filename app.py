@@ -1,4 +1,5 @@
 import streamlit as st
+
 from PIL import Image
 
 # Set page title and layout
