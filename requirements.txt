@@ -2,3 +2,5 @@ streamlit
 pillow
 numpy
 opencv-python
+streamlit-image-select
+base64

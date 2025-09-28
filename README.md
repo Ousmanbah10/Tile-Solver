@@ -1,5 +1,7 @@
 # 🧩 Tile Solver Game
 
+# NAMES: OUSMAN BAH, SHAWN, EDUARDO A. Paramio
+
 Welcome to the **Tile Solver Game**!  
 This is a Streamlit-based app where you can eventually split images into tiles, play the puzzle, and even solve it automatically using the A\* algorithm.
 
@@ -12,7 +14,7 @@ This is a Streamlit-based app where you can eventually split images into tiles, 
 3. Install the dependencies from `requirements.txt`:
 
 ```bash
-Run the following on the Terminal 
+Run the following on the Terminal
  STEP 1: pip install -r requirements.txt
 
 
