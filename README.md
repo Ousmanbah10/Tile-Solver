@@ -1,6 +1,6 @@
 # 🧩 Tile Solver Game
 
-# NAMES: OUSMAN BAH, SHAWN, EDUARDO A. Paramio
+# NAMES: OUSMAN BAH, SHAWN PAULIN, EDUARDO A. Paramio
 
 Welcome to the **Tile Solver Game**!  
 This is a Streamlit-based app where you can eventually split images into tiles, play the puzzle, and even solve it automatically using the A\* algorithm.
